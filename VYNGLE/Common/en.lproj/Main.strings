@@ -1,0 +1,52 @@
+/* 
+  Main.strings
+  VYNGLE
+
+  Created by Sujeet on 8/26/17.
+  Copyright © 2017 Sujeet. All rights reserved.
+*/
+
+// Page Titles
+"Shop with Vyngle" = "Shop with Vyngle";
+"Wine Details" = "Wine Details";
+"Confirm Address" = "Confirm Address";
+"Schedule Delivery" = "Schedule Delivery";
+"review_order" = "Review Order";
+"payment_details" = "Payment Details";
+"thank_you" = "Thank You";
+"my_account" = "My Account";
+
+// End Page Titles
+
+// Common
+"no_internet_connection" = "No! internet connection is not available.";
+"ok" = "OK";
+"Searching wine database" = "Searching wine database";
+// End
+
+// Shop with Vyngle Page
+"orders" = "Orders";
+"contactUs" = "Contact Us";
+"cart" = "Cart";
+"Feature Wines" = "Feature Wines";
+"All Wines" = "All Wines";
+"New" = "New";
+"Last Bottle" = "Last Bottle";
+"Retail" = "Retail";
+
+
+
+
+// End
+
+// Product Detail Page
+"Confirm Address" = "Confirm Address";
+"Case Discount!" = "Case Discount";
+"Free Shipping!" = "Free Shipping!";
+"bottle" = "bottle";
+"bottles" = "bottles";
+"case" = "case";
+"cases" = "cases";
+
+
+// End
